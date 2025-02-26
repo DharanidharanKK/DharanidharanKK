@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DharanidharanKK
 - 👀 I’m interested in ... TECHNOLOGY
-- 🌱 I’m currently learning ...ADVANCE PYTHON & MACHINE LEARNI
+- 🌱 I’m currently learning ...ADVANCE PYTHON WITH MACHINE LEARNING AND DSA WITH JAVA
 - UNDERGRAD AT KPRIET IN THE THE DEPARTMENT OF ARTIFICIAL INTELLIGENCE & DATA SCIENCE ,
 
 <!---
